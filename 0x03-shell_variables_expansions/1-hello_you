@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello' $full_name
+echo "Hello" $id username
