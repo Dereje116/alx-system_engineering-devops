@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="$((1+2+9))"
+echo $($TRUEKNOWLDGE+128)
